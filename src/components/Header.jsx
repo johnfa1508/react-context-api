@@ -1,5 +1,4 @@
-import { UserContext } from '../App';
-import { ThemeContext } from '../App';
+import { UserContext, ThemeContext } from '../context';
 import { useContext } from 'react';
 
 export default function Header() {

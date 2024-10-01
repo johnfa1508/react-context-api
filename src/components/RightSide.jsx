@@ -1,6 +1,6 @@
 import imgElon from '../assets/images/elon.jpg';
 import imgZuck from '../assets/images/zuck.jpg';
-import { ThemeContext } from '../App';
+import { ThemeContext } from '../context';
 import { useContext } from 'react';
 
 export default function RightSide() {
